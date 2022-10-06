@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier";
+  font-size: 8pt;
+  color: #fff
+    
+}
+canvas {
+  display: block;
+}
